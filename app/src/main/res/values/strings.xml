@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Hand of the King Logs</string>
+    <string name="edit_message">Enter Great House</string>
+    <string name="button_send">Check</string>
+    <string name="team_header">Below are all the Houses under investigation</string>
+    <string name="great_house1">Stark</string>
+    <string name="great_house2">Baratheon</string>
+    <string name="great_house3">Tyrell</string>
+    <string name="great_house4">Targaryen</string>
+    <string name="great_house5">Lannister</string>
+    <string name="empty_string"></string>
+    <string name="word_House">House</string>
+    <string name="StarkTextIntro">
+        House Stark of Winterfell is one of the Great Houses of Westeros and the principal noble house of the north.
+        In days of old they ruled as Kings of Winter, but since Aegon\'s Conquest they have been Wardens of the North and ruled as Lords of Winterfell.
+        Their seat, Winterfell, is an ancient castle renowned for its strength. Their sigil is a grey direwolf racing across a field of white.
+        Their words are "Winter is Coming", one of only a few house mottoes to be a warning rather than a boast.
+        Several of the POV characters of A Song of Ice and Fire are members of House Stark. Aside from the Karstarks of Karhold, the Starks of Winterfell may have other, distant relatives in the north.
+        White Harbor and Barrowton are considered to be likely options. Some younger Starks have also held vassal holdfasts for the lords of Winterfell.</string>
+    <string name="StarkExtras">
+        \n\n<b><big>Traits</big></b>\n
+            <p>The Starks have a reputation for long faces, brown hair, and grey eyes.
+                Some are known for melancholy and iciness, while others have a wildness sometimes called \"wolf blood\".
+                In the current generation of Starks, several members (e.g., Arya and Bran Stark and Jon Snow) have the ability to enter the minds of their direwolf pets as wargs, giving them the ability to experience the senses of their direwolves and to see through their eyes.
+                The latter occurs most frequently when the children sleep, although they are able to do it at will when awake, once they are more practiced.
+            </p>
+        \n\n<b><big>Customs</big></b>\n
+            <p> House Stark traditionally buries deceased members of their family in the crypts below Winterfell.
+                The Kings of Winter and Lords of Winterfell are given a statue of their likeness, sitting by their tomb, whereas other family members normally do not get one.
+                Exceptions include Brandon and Lyanna Stark, who were given statues by their brother, Lord Eddard Stark, and Artos Stark. The statues of the kings and lords have stone wolves by their feet and have swords placed upon their lap, which are said to keep the spirits of the dead at rest, locked within their tombs. House Stark traditionally follows the old gods.
+                Following the marriage of Eddard to Lady Catelyn Tully, a follower of the Faith of the Seven, a small sept was constructed at Winterfell.
+                The Starks have traditionally been friends of the Night\'s Watch. The four youngest men to have served as Lord Commander, including Osric Stark, were brothers, sons, or bastards of Kings in the North.
+            </p>
+    </string>
+    <string name="BaratheonTextIntro">BText</string>
+    <string name="BaratheonExtras">BExtraText</string>
+
+    <string name="TyrellTextIntro">TyText</string>
+    <string name="TyrellExtras">TyExtraText</string>
+
+    <string name="TargaryenTextIntro">TargText</string>
+    <string name="TargaryenExtras">TargExtraText</string>
+
+    <string name="LannisterTextIntro">LannisterText</string>
+    <string name="LannisterExtras">LannisterExtraText</string>
+</resources>
